@@ -1,0 +1,23 @@
+.header{
+    color:steelblue;
+    text-align: center;
+}
+.main{
+    text-align: center;
+    color: steelblue;
+    
+}
+
+.result{
+    text-align: center;
+    margin-top: 2rem;
+    color: steelblue;
+    font-size: 2rem;
+}
+.butn{
+    background-color:aquamarine;
+    margin-top: 1rem;
+    border-style: solid;
+    border-color: steelblue;
+    border-radius: 0.5rem;
+}
